@@ -33,19 +33,3 @@ This is my personal page, where you can find my: [Experience](#experience-and-ed
 + **Blake, S. P.**, Gallagher, P. T., McCauley, J., Jones, A. G., Hogg, C., Campanyà, J., … Bell, D. (2016). *Geomagnetically induced currents in the Irish power network during geomagnetic storms*. Space Weather, 14(12), 1136–1154. [https://doi.org/10.1002/2016SW001534](https://doi.org/10.1002/2016SW001534)
 
 
-### SOME TEXT ###
-
-This is a test for a link to a particular [SOME TEXT][header].
-
-
-Go to section
-* [Hello](#hello)  
-* [Hello World](#hello-world)
-* [Another section](#new-section) <-- it's called 'Another section' in this list but refers to 'New section'
-
-
-## Hello
-### Hello World
-## New section
-
-[comment]: <> (https://user-images.githubusercontent.com/20742138/92676461-963e6b00-f2ef-11ea-8009-4361f41dbaef.jpg)
