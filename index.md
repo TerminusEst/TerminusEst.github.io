@@ -1,4 +1,4 @@
-I am a physicist who researches large space weather events and the risk they pose to grounded networks. Currently based in the NASA Goddard Space Flight Center in Maryland, USA. My current work involves simulating superstorms (using the Space Weather Modeling Framework), as well as researching historical geomagnetic storm events from the 19th and 20th centuries.
+I am a physicist who researches large space weather events and the risk they pose to grounded networks. Currently based in the NASA Goddard Space Flight Center in Maryland, USA. My current work involves simulating geomagnetic superstorms (using the Space Weather Modeling Framework), as well as researching historical geomagnetic storm events from the 19th and 20th centuries.
 
 This is my personal page, where you can find my: [Experience](#experience-and-education), [Publications](#publications) and CV.
 
@@ -6,7 +6,7 @@ This is my personal page, where you can find my: [Experience](#experience-and-ed
 
 + **Postdoctoral Researcher, 2018-Present**
 
-  - Based in the NASA Goddard Space Flight Center with the Catholic University of America. Researching extreme geomagnetic storm dynamics and historical superstorms. he extent of the auroral oval, localized geoelectric field enhancements and historical superstorms.  
+  - Based in the NASA Goddard Space Flight Center with the Catholic University of America. Researching extreme geomagnetic storm dynamics, historical superstorms, the extent of the auroral oval and localized geoelectric field enhancements.  
 
 + **PhD in Physics, 2013-2017**
 
