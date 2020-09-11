@@ -33,4 +33,5 @@ This is my personal page, where you can find my: [Experience](#experience-and-ed
 
 + **Blake, S. P.**, Gallagher, P. T., McCauley, J., Jones, A. G., Hogg, C., Campanyà, J., … Bell, D. (2016). *Geomagnetically induced currents in the Irish power network during geomagnetic storms*. Space Weather, 14(12), 1136–1154. [https://doi.org/10.1002/2016SW001534](https://doi.org/10.1002/2016SW001534)
 
-
+## Things to finish
+center title ("sean P blake"), center email, add work and skills?
