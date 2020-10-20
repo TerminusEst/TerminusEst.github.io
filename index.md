@@ -19,6 +19,8 @@ This is my personal page, where you can find my: [Experience](#experience-and-ed
 
 ## Publications
 
++ Hayakawa, H., **Blake, S.P.**, Bhaskar, A., Hattori, K., Oliveira, D.M., Ebihara, Y. (2020). *The Extreme Space Weather Event in February/March 1941*. submitted to The Astrophysical Journal, [https://arxiv.org/abs/2010.00452](https://arxiv.org/abs/2010.00452)
+
 + Bhaskar, A., Hayakawa, H., Oliveira, D. M., **Blake, S. P.**, Silverman, S. M., & Ebihara, Y. (2020). *An analysis of the Trouvelot’s Auroral Drawing on 1/2 March 1872: Plausible Evidence for Recurrent Geomagnetic Storms*. Journal of Geophysical Research: Space Physics, 125, e2020JA028227. [https://doi.org/10.1029/2020JA028227](https://doi.org/10.1029/2020JA028227)
 
 + Marsal, S., Torta, J. M., Pavón‐Carrasco, F. J., **Blake, S. P.**, & Piersanti, M. (2020). *Including the Temporal Dimension in the SECS Technique*, Space Weather, 0–2. [https://doi.org/10.1029/2020SW002491](https://doi.org/10.1029/2020SW002491)
