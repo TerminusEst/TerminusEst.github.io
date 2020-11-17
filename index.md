@@ -18,7 +18,7 @@ This is my personal page, where you can find my: [Experience](#experience-and-ed
   - Completed in Trinity College Dublin, graded II.I. 
 
 ## Publications
-+ **Blake, S.P.**, Pulkkinen, A., Schuck, P.W., Glocer, A., Tóth, G. (2020), *Estimating Maximum Extent of Auroral Equatorward Boundary using Historical and Simulated Surface Magnetic Field Data*, accepted for publication by the Journal of Geophysical Research: Space Physics, 
++ **Blake, S.P.**, Pulkkinen, A., Schuck, P.W., Glocer, A., Tóth, G. (2020). *Estimating Maximum Extent of Auroral Equatorward Boundary using Historical and Simulated Surface Magnetic Field Data*, accepted for publication by the Journal of Geophysical Research: Space Physics, 
 
 + Hayakawa, H., **Blake, S.P.**, Bhaskar, A., Hattori, K., Oliveira, D.M., Ebihara, Y. (2020). *The Extreme Space Weather Event in February/March 1941*. submitted to The Astrophysical Journal, [https://arxiv.org/abs/2010.00452](https://arxiv.org/abs/2010.00452)
 
