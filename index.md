@@ -11,7 +11,7 @@ This is my personal page, where you can find my: [Experience](#experience-and-ed
 
 + **PhD in Physics, 2013-2017**
 
-  - Completed in Trinity College Dublin, funded by Eirgrid and the IRC. My thesis *Modelling and Monitoring Geomagnetically Induced Currents in Ireland* was the first detailed study of the Irish power network and its vulnerability to space weather events.
+  - Completed in Trinity College Dublin, funded by Eirgrid and the IRC. My thesis '*Modelling and Monitoring Geomagnetically Induced Currents in Ireland*' was the first detailed study of the Irish power network and its vulnerability to space weather events.
 
 + **B.A. Mod, Physics with Astrophysics, 2009-2013**
 
