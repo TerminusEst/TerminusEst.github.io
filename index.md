@@ -1,19 +1,25 @@
 ## About Me
-I am a physicist who researches large space weather events and the risk they pose to grounded networks. Currently based in the NASA Goddard Space Flight Center in Maryland, USA. My current work involves simulating geomagnetic superstorms (using the [Space Weather Modeling Framework](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2005JA011126)), as well as researching historical geomagnetic storm events from the 19th and 20th centuries.
+I am an Irish physicist currently based at the NASA Goddard Space Flight Center in Maryland, USA. Currently researching large space weather events and the risk they pose to grounded networks. This involves simulating geomagnetic superstorms (using the [Space Weather Modeling Framework](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2005JA011126)), as well as researching historical geomagnetic storm events from the 19th and 20th centuries.
+
+Experienced with geophysical modeling, manipulating and visualising large amounts of data, and scientific computing (mainly Python). 
 
 This is my personal page, where you can find my: [Experience](#experience-and-education), [Publications](#publications) and CV (to be added).
 
 ## Experience and Education
 
-+ **Postdoctoral Researcher, 2018-Present**
++ **Postdoctoral Researcher, NASA GSFC, 2018-Present**
 
   - Based in the NASA Goddard Space Flight Center with the Catholic University of America. Researching extreme geomagnetic storm dynamics, historical superstorms, the extent of the auroral oval and localized geoelectric field enhancements.  
 
-+ **PhD in Physics, 2013-2017**
++ **PhD in Physics, TCD, 2013-2017**
 
   - Completed in Trinity College Dublin, funded by Eirgrid and the IRC. My thesis '*Modelling and Monitoring Geomagnetically Induced Currents in Ireland*' was the first detailed study of the Irish power network and its vulnerability to space weather events.
 
-+ **B.A. Mod, Physics with Astrophysics, 2009-2013**
++ **Postgraduate Certificate in Statistics, TCD, 2014-2015**
+
+  - 35 ECTS course on frequentist statistics
+
++ **B.A. Mod, Physics with Astrophysics, TCD, 2009-2013**
 
   - Completed in Trinity College Dublin, graded II.I. 
 
