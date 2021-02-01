@@ -3,7 +3,7 @@ I am an Irish physicist currently based at the NASA Goddard Space Flight Center 
 
 Experienced with geophysical modeling, manipulating and visualising large amounts of data, and scientific computing (mainly Python). 
 
-This is my personal page, where you can find my: [Experience](#experience-and-education), [Publications](#publications) and [CV](https://TerminusEst.github.io/assets/SEAN_BLAKE_CV.pdf).
+This is my personal page, where you can find my: [Experience](#experience-and-education), [Publications](#publications) and [CV](https://TerminusEst.github.io/assets/SEAN_BLAKE_CV2.pdf).
 
 ## Experience and Education
 
