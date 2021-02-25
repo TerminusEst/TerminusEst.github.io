@@ -24,9 +24,11 @@ This is my personal page, where you can find my: [Experience](#experience-and-ed
   - Completed in Trinity College Dublin, graded II.I. 
 
 ## Publications
++ **Blake, S.P.**, Pulkkinen, A., Schuck, P.W., Glocer, A., Oliveira, D.M., Welling, D., Weigel, R.S., Quaresima, G., (2021). *Recreating the Horizontal Magnetic Field at Colaba during the Carrington Event with Geospace Simulations*, Space Weather, Accepted For Publication
++ 
 + **Blake, S.P.**, Pulkkinen, A., Schuck, P.W., Glocer, A., Tóth, G. (2020). *Estimating Maximum Extent of Auroral Equatorward Boundary using Historical and Simulated Surface Magnetic Field Data*, Journal of Geophysical Research: Space Physics, [https://doi.org/10.1029/2020JA028284](https://doi.org/10.1029/2020JA028284) 
 
-+ Hayakawa, H., **Blake, S.P.**, Bhaskar, A., Hattori, K., Oliveira, D.M., Ebihara, Y. (2020). *The Extreme Space Weather Event in February/March 1941*. submitted to The Astrophysical Journal, [https://arxiv.org/abs/2010.00452](https://arxiv.org/abs/2010.00452)
++ Hayakawa, H., **Blake, S.P.**, Bhaskar, A., Hattori, K., Oliveira, D.M., Ebihara, Y. (2020). *The Extreme Space Weather Event in February/March 1941*. The Astrophysical Journal, Accepted for Publication, [https://arxiv.org/abs/2010.00452](https://arxiv.org/abs/2010.00452)
 
 + Bhaskar, A., Hayakawa, H., Oliveira, D. M., **Blake, S. P.**, Silverman, S. M., & Ebihara, Y. (2020). *An analysis of the Trouvelot’s Auroral Drawing on 1/2 March 1872: Plausible Evidence for Recurrent Geomagnetic Storms*. Journal of Geophysical Research: Space Physics, 125, e2020JA028227. [https://doi.org/10.1029/2020JA028227](https://doi.org/10.1029/2020JA028227)
 
