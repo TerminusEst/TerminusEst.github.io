@@ -24,7 +24,7 @@ This is my personal page, where you can find my: [Experience](#experience-and-ed
   - Completed in Trinity College Dublin, graded II.I. 
 
 ## Publications
-+ **Blake, S.P.**, Pulkkinen, A., Schuck, P.W., Glocer, A., Oliveira, D.M., Welling, D., Weigel, R.S., Quaresima, G., (2021). *Recreating the Horizontal Magnetic Field at Colaba during the Carrington Event with Geospace Simulations*, Space Weather, Accepted For Publication
++ **Blake, S.P.**, Pulkkinen, A., Schuck, P.W., Glocer, A., Oliveira, D.M., Welling, D., Weigel, R.S., Quaresima, G., (2021). *Recreating the Horizontal Magnetic Field at Colaba during the Carrington Event with Geospace Simulations*, Space Weather, [https://doi.org/10.1029/2020SW002585](https://doi.org/10.1029/2020SW002585)
 
 + **Blake, S.P.**, Pulkkinen, A., Schuck, P.W., Glocer, A., Tóth, G. (2020). *Estimating Maximum Extent of Auroral Equatorward Boundary using Historical and Simulated Surface Magnetic Field Data*, Journal of Geophysical Research: Space Physics, [https://doi.org/10.1029/2020JA028284](https://doi.org/10.1029/2020JA028284) 
 
