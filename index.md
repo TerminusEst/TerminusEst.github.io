@@ -3,7 +3,7 @@ I am an Irish physicist currently based at the NASA Goddard Space Flight Center 
 
 Experienced with geophysical modeling, manipulating and visualising large amounts of data, and scientific computing (mainly Python). 
 
-This is my personal page, where you can find my: [Experience](#experience-and-education), [Publications](#publications) and [CV](https://TerminusEst.github.io/assets/SEAN_BLAKE_CV2.pdf).
+This is my personal page, where you can find my: [Experience](#experience-and-education), [Publications](#publications) and [CV](https://TerminusEst.github.io/assets/SEAN_BLAKE_CV_v3.pdf).
 
 ## Experience and Education
 
@@ -24,9 +24,12 @@ This is my personal page, where you can find my: [Experience](#experience-and-ed
   - Completed in Trinity College Dublin, graded II.I. 
 
 ## Publications
+
 + **Blake, S.P.**, Pulkkinen, A., Schuck, P.W., Glocer, A., Oliveira, D.M., Welling, D., Weigel, R.S., Quaresima, G., (2021). *Recreating the Horizontal Magnetic Field at Colaba during the Carrington Event with Geospace Simulations*, Space Weather, [https://doi.org/10.1029/2020SW002585](https://doi.org/10.1029/2020SW002585)
 
 + **Blake, S.P.**, Pulkkinen, A., Schuck, P.W., Glocer, A., Tóth, G. (2020). *Estimating Maximum Extent of Auroral Equatorward Boundary using Historical and Simulated Surface Magnetic Field Data*, Journal of Geophysical Research: Space Physics, [https://doi.org/10.1029/2020JA028284](https://doi.org/10.1029/2020JA028284) 
+
++ *Magnetohydrodynamic (MHD) Modeling for the Further Understanding of Geoelectric Field Enhancements and Auroral Behavior During Geomagnetic Disturbance Events*, 2020 [report for the Electric Power Research Institute.](https://www.epri.com/research/products/000000003002017952) 
 
 + Hayakawa, H., **Blake, S.P.**, Bhaskar, A., Hattori, K., Oliveira, D.M., Ebihara, Y. (2020). *The Extreme Space Weather Event in February/March 1941*. The Astrophysical Journal, Accepted for Publication, [https://arxiv.org/abs/2010.00452](https://arxiv.org/abs/2010.00452)
 
