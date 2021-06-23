@@ -1,9 +1,9 @@
 ## About Me
-I am an Irish physicist currently based at the NASA Goddard Space Flight Center in Maryland, USA. Currently researching large space weather events and the risk they pose to grounded networks. This involves simulating geomagnetic superstorms (using the [Space Weather Modeling Framework](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2005JA011126)), as well as researching historical geomagnetic storm events from the 19th and 20th centuries.
+I am an Irish physicist currently based at the NASA Goddard Space Flight Center in Maryland, USA. Currently researching large space weather events and the risk they pose to grounded networks. This involves simulating geomagnetic superstorms (using the [Space Weather Modeling Framework](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2005JA011126)), as well as researching historical geomagnetic storm events from the 19th and 20th centuries. Here is the [presentation](https://github.com/TerminusEst/TerminusEst.github.io//assets/Pres_for_Primary_Students.pdf) I give to students about my job!
 
-I am experienced with geophysical modeling, manipulating and visualising large amounts of data, and scientific computing (mainly Python). I am also familiar with machine learning  
+I am experienced with geophysical modeling, manipulating and visualising large amounts of data, and scientific computing (mainly Python). I am also familiar with machine learning and teaching.  
 
-This is my personal page, where you can find my: [Experience](#experience-and-education), [Publications](#publications), [CV](https://TerminusEst.github.io/assets/SEAN_BLAKE_CV_v3.pdf) and [academic CV](https://TerminusEst.github.io/assets/SEAN_BLAKE_ACADEMIC_CV.pdf).
+This is my personal page, where you can find my: [Experience](#experience-and-education), [Publications](#publications), [CV](https://TerminusEst.github.io/assets/SEAN_BLAKE_CV_v3.pdf) and [academic CV](https://TerminusEst.github.io/assets/SEAN_BLAKE_ACADEMIC_CV.pdf). 
 
 ## Experience and Education
 
