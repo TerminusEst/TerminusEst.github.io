@@ -19,11 +19,11 @@ ___
    - Founded Codify Ltd. with fellow postgraduate students, which provided data science and computer programming workshops in Dublin.
    - Designed curriculum, organised classes and taught approximately 150 students.
 
-+ **Workshop Leader with Student2Scientist.org**
++ **Workshop Leader with Student2Scientist.org, 2014-2016**
    - Ran educational computer science and physics workshops in Trinity College Dublin for secondary level students and teachers.
    - Produced Junior Cert. Short Course curriculum for secondary level teachers.
 
-+ **Summer Intern with DIAS Geophysics Section**
++ **Summer Intern with DIAS Geophysics Section, 2013**
    - Surveyed locations, installed equipment and analysed geomagnetic data as part of the IRETHERM magnetotelluric geothermal energy project.
 
 ___
