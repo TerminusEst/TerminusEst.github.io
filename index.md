@@ -1,15 +1,33 @@
 ## About Me
-I am an Irish physicist based at the NASA Goddard Space Flight Center in Maryland, USA. I research large space weather events and the risk they pose to grounded networks. This involves simulating geomagnetic superstorms (using the [Space Weather Modeling Framework](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2005JA011126)), as well as researching historical geomagnetic storm events from the 19th and 20th centuries. 
+I am an Irish physicist based at the NASA Goddard Space Flight Center in Maryland, USA. I research large space weather events and the risk they pose to grounded networks. This involves simulating geomagnetic superstorms (using the [Space Weather Modeling Framework](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2005JA011126)), as well as researching historical geomagnetic storm events from the 19th and 20th centuries.  
 
-I am experienced with geophysical modeling, manipulating and visualising large amounts of data, and scientific computing (mainly Python). I am also familiar with machine learning and teaching.  
+I am experienced with geophysical modeling, manipulating and visualising large amounts of data, machine learning and scientific computing (mainly Python). I also have experience teaching computing and physics to students of all ages. You can find my [resume](https://terminusest.github.io/assets/Sean_Blake_resume.pdf) and [academic CV](https://TerminusEst.github.io/assets/SEAN_BLAKE_ACADEMIC_CV.pdf) here.
 
-This is my personal page, where you can find my: [Experience](#experience-and-education), [Publications](#publications), [CV](https://TerminusEst.github.io/assets/SEAN_BLAKE_CV_v3.pdf) and [academic CV](https://TerminusEst.github.io/assets/SEAN_BLAKE_ACADEMIC_CV.pdf). Here is the [presentation](https://TerminusEst.github.io/assets/Pres_for_Primary_Students.pdf) I give to students about my job!
+This is my personal page, where you can find my: [Experience](#experience), [Education](#education), [Publications](#publications). Here is a [presentation](https://TerminusEst.github.io/assets/Pres_for_Primary_Students.pdf) I give to students about my job!
 
-## Experience and Education
+___
+## Experience
 
 + **Postdoctoral Researcher, NASA GSFC, 2018-Present**
 
   - Based in the NASA Goddard Space Flight Center with the Catholic University of America. Researching extreme geomagnetic storm dynamics, historical superstorms, the extent of the auroral oval and localized geoelectric field enhancements.  
+
++ **Postdoctoral Researcher at Trinity College Dublin, 2017-2018**
+   - Gathered and processed magnetotelluric data around Ireland as part of SWEMDI: the Space Weather Electromagnetic Database for Ireland.
+
++ **Director of CodifyDublin.com, 2016-2018** 
+   - Founded Codify Ltd. with fellow postgraduate students, which provided data science and computer programming workshops in Dublin.
+   - Designed curriculum, organised classes and taught approximately 150 students.
+
++ **Workshop Leader with Student2Scientist.org**
+   - Ran educational computer science and physics workshops in Trinity College Dublin for secondary level students and teachers.
+   - Produced Junior Cert. Short Course curriculum for secondary level teachers.
+
++ **Summer Intern with DIAS Geophysics Section**
+   - Surveyed locations, installed equipment and analysed geomagnetic data as part of the IRETHERM magnetotelluric geothermal energy project.
+
+___
+## Education
 
 + **PhD in Physics, TCD, 2013-2017**
 
@@ -23,6 +41,7 @@ This is my personal page, where you can find my: [Experience](#experience-and-ed
 
   - Completed in Trinity College Dublin, graded II.I. 
 
+___
 ## Publications
 
 + **Blake, S.P.**, Pulkkinen, A., Schuck, P.W., Glocer, A., Oliveira, D.M., Welling, D., Weigel, R.S., Quaresima, G., (2021). *Recreating the Horizontal Magnetic Field at Colaba during the Carrington Event with Geospace Simulations*, Space Weather, [https://doi.org/10.1029/2020SW002585](https://doi.org/10.1029/2020SW002585)
