@@ -1,14 +1,15 @@
 ## About Me
-I am an Irish physicist based at the NASA Goddard Space Flight Center in Maryland, USA. I research large space weather events and the risk they pose to grounded networks. This involves simulating geomagnetic superstorms (using the [Space Weather Modeling Framework](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2005JA011126)), as well as researching historical geomagnetic storm events from the 19th and 20th centuries.  
+I am a Data Scientist based at SkySpecs in Dublin. Today I am working on wind turbines and green energy! Previously, I was an Irish physicist based at the NASA Goddard Space Flight Center in Maryland, USA. There I researched large space weather events and the risk they pose to grounded networks. This involved simulating geomagnetic superstorms (using the [Space Weather Modeling Framework](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2005JA011126)), as well as researching historical geomagnetic storm events from the 19th and 20th centuries.  
 
-I am experienced with geophysical modeling, manipulating and visualising large amounts of data, machine learning and scientific computing (mainly Python). I also have experience teaching computing and physics to students of all ages. You can find my [resume](https://terminusest.github.io/assets/Sean_Blake_resume.pdf) and [academic CV](https://TerminusEst.github.io/assets/SEAN_BLAKE_ACADEMIC_CV.pdf) here.
+I am experienced with geophysical modeling, manipulating and visualising large amounts of data, machine learning and scientific computing (mainly Python). I also have experience teaching computing and physics to students of all ages. You can find my [resume](https://terminusest.github.io/assets/Sean_Blake_resume.pdf) and [academic CV](https://TerminusEst.github.io/assets/SEAN_BLAKE_ACADEMIC_CV.pdf) here (not up to date!).
 
-This is my personal page, where you can find my: [Experience](#experience), [Education](#education), [Publications](#publications). Here is a [presentation](https://TerminusEst.github.io/assets/Pres_for_Primary_Students.pdf) I give to students about my job!
+This is my personal page, where you can find my: [Experience](#experience), [Education](#education), [Publications](#publications). Here is a [presentation](https://TerminusEst.github.io/assets/Pres_for_Primary_Students.pdf) I give to students about my (previous) job!
 
 ___
 ## Experience
++ **Senior Data Scientist, SkySpecs, Dec 2021 - Present**
 
-+ **Postdoctoral Researcher, NASA GSFC, 2018-Present**
++ **Postdoctoral Researcher, NASA GSFC, 2018-2021**
 
   - Based in the NASA Goddard Space Flight Center with the Catholic University of America. Researching extreme geomagnetic storm dynamics, historical superstorms, the extent of the auroral oval and localized geoelectric field enhancements.  
 
@@ -43,6 +44,11 @@ ___
 
 ___
 ## Publications
++ Hayakawa,H., Nevanlinna, H., **Blake, S.P.**, Ebihara, Y., Bhaskar, A.T., Miyoshi, Y., (2021), *Temporal Variations of the Three Geomagnetic Field Components at Colaba Observatory around the Carrington Storm in 1859*, The Astrophysical Journal, Accepted for Publication
+
++ Hayakawa, H., Oliveira, D.M., Shea, M.A., Smart, D.F., **Blake, S.P.**, Hattori, K., Bhaskar, A.T., Curto, J.J., Franco, D.R., Ebihara, Y. (2021), *The Extreme Solar and Geomagnetic Storms on 20-25 March 1940*, Monthly Notices of the Royal Astronomical Society, Accepted for Publication
+
++ Mate, A., Barnes, A.K., Morley, S.K., Friz-Trillo, J.A., Cotilla-Sanchez, E., **Blake, S.P.** (2021) *Relaxation Based Modeling of GMD Induced Cascading Failures in PowerModelsGMD.jl*, IEEEE/PES 53RD NA Power Symposium Conference Paper
 
 + **Blake, S.P.**, Pulkkinen, A., Schuck, P.W., Glocer, A., Oliveira, D.M., Welling, D., Weigel, R.S., Quaresima, G., (2021). *Recreating the Horizontal Magnetic Field at Colaba during the Carrington Event with Geospace Simulations*, Space Weather, [https://doi.org/10.1029/2020SW002585](https://doi.org/10.1029/2020SW002585)
 
