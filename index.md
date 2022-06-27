@@ -3,7 +3,9 @@ I am a Senior Data Scientist based at SkySpecs in Dublin. Today I am working on 
 
 I am experienced with geophysical modeling, manipulating and visualising large amounts of data, machine learning and scientific computing (mainly Python). I also have experience teaching computing and physics to students of all ages. You can find my [resume](https://terminusest.github.io/assets/Sean_Blake_resume.pdf) and [academic CV](https://TerminusEst.github.io/assets/SEAN_BLAKE_ACADEMIC_CV.pdf) here (not up to date!).
 
-This is my personal page, where you can find my: [Experience](#experience), [Education](#education), [Publications](#publications). Here is a [presentation](https://TerminusEst.github.io/assets/Pres_for_Primary_Students.pdf) I give to students about my (previous) job!
+This is my personal page, where you can find my: [Experience](#experience), [Education](#education), [Publications](#publications). Here is an updated [presentation](https://docs.google.com/presentation/d/10lbZhxmjrpPgh9HlyFuT8ApaAkT0JRU7X3iwGNXs6M4/edit?usp=sharing) I give to students about my (previous) job!
+
+<!--- [presentation](https://TerminusEst.github.io/assets/Pres_for_Primary_Students.pdf) I give to students about my (previous) job!--->
 
 ___
 ## Experience
