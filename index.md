@@ -48,7 +48,7 @@ ___
 ## Publications
 + Hayakawa,H., Nevanlinna, H., **Blake, S.P.**, Ebihara, Y., Bhaskar, A.T., Miyoshi, Y., (2021), *Temporal Variations of the Three Geomagnetic Field Components at Colaba Observatory around the Carrington Storm in 1859*, The Astrophysical Journal, [https://doi.org/10.3847/1538-4357/ac2601](https://doi.org/10.3847/1538-4357/ac2601)
 
-+ Hayakawa, H., Oliveira, D.M., Shea, M.A., Smart, D.F., **Blake, S.P.**, Hattori, K., Bhaskar, A.T., Curto, J.J., Franco, D.R., Ebihara, Y. (2021), *The Extreme Solar and Geomagnetic Storms on 20-25 March 1940*, Monthly Notices of the Royal Astronomical Society, Accepted for Publication
++ Hayakawa, H., Oliveira, D.M., Shea, M.A., Smart, D.F., **Blake, S.P.**, Hattori, K., Bhaskar, A.T., Curto, J.J., Franco, D.R., Ebihara, Y. (2021), *The Extreme Solar and Geomagnetic Storms on 20-25 March 1940*, Monthly Notices of the Royal Astronomical Society, [https://doi.org/10.1093/mnras/stab3615](https://doi.org/10.1093/mnras/stab3615)
 
 + Mate, A., Barnes, A.K., Morley, S.K., Friz-Trillo, J.A., Cotilla-Sanchez, E., **Blake, S.P.** (2021) *Relaxation Based Modeling of GMD Induced Cascading Failures in PowerModelsGMD.jl*, IEEEE/PES 53RD NA Power Symposium Conference Paper
 
