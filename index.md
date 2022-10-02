@@ -50,7 +50,7 @@ ___
 
 + Hayakawa, H., Oliveira, D.M., Shea, M.A., Smart, D.F., **Blake, S.P.**, Hattori, K., Bhaskar, A.T., Curto, J.J., Franco, D.R., Ebihara, Y. (2021), *The Extreme Solar and Geomagnetic Storms on 20-25 March 1940*, Monthly Notices of the Royal Astronomical Society, [https://doi.org/10.1093/mnras/stab3615](https://doi.org/10.1093/mnras/stab3615)
 
-+ Mate, A., Barnes, A.K., Morley, S.K., Friz-Trillo, J.A., Cotilla-Sanchez, E., **Blake, S.P.** (2021) *Relaxation Based Modeling of GMD Induced Cascading Failures in PowerModelsGMD.jl*, IEEEE/PES 53RD NA Power Symposium Conference Paper
++ Mate, A., Barnes, A.K., Morley, S.K., Friz-Trillo, J.A., Cotilla-Sanchez, E., **Blake, S.P.** (2021) *Relaxation Based Modeling of GMD Induced Cascading Failures in PowerModelsGMD.jl*, IEEEE/PES 53RD NA Power Symposium Conference Paper, [https://doi.org/10.1109/NAPS52732.2021.9654450](https://doi.org/10.1109/NAPS52732.2021.9654450)
 
 + **Blake, S.P.**, Pulkkinen, A., Schuck, P.W., Glocer, A., Oliveira, D.M., Welling, D., Weigel, R.S., Quaresima, G., (2021). *Recreating the Horizontal Magnetic Field at Colaba during the Carrington Event with Geospace Simulations*, Space Weather, [https://doi.org/10.1029/2020SW002585](https://doi.org/10.1029/2020SW002585)
 
